@@ -1,0 +1,25 @@
+[40;37mGW-BASIC 3.22
+(C) Copyright Microsoft 1983,1984,1985,1986,1987
+60300 Bytes free
+Ok
+10 SCREEN 0,0:WIDTH 80
+20 KEY OFF:CLS
+30 PRINT "HELLO WORLD"
+[5m_[25m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1[7mLIST [27m  2[7mRUN←[27m   3[7mLOAD"[27m  4[7mSAVE"[27m  5[7mCONT←[27m  6[7m,"LPT1[27m 7[7mTRON←[27m  8[7mTROFF←[27m 9[7mKEY [27m   0[7mSCREEN[27m [m
