@@ -17,4 +17,4 @@ JScript\
 `echo(getAnsi("https://raw.githubusercontent.com/PhMajerus/ANSI-art/master/Super%20Mario%20castle%20(wide)%20(256%20colors).ans"))`\
 VBScript\
 `Function GetAnsi(URL): Dim XHR: Set XHR=CreateObject("MSXML2.XMLHTTP.6.0"): XHR.Open "GET",URL,False: XHR.Send: GetAnsi=TrimSUB(BinaryToString(XHR.ResponseBody,"CP437")): End Function`\
-`Echo GetAnsi("https://raw.githubusercontent.com/PhMajerus/ANSI-art/master/Super%20Mario%20castle%20(wide)%20(256%20colors).ans")`\
+`Echo GetAnsi("https://raw.githubusercontent.com/PhMajerus/ANSI-art/master/Super%20Mario%20castle%20(wide)%20(256%20colors).ans")`
