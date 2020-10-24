@@ -1,0 +1,22 @@
+[m
+                            [4;1mInternational Morse Code[m
+
+                      [36m________[m   dot ˙  [90m|[m  - dash   [36m_______[m
+                     [36m/                                     \[m
+            [36m_______[m E [36m_______[m                        [36m______[m T [36m______[m
+           [36m/                 \                      /    [m(or 0)[36m     \[m
+       [36m__[m I [36m__[m             [36m__[m A [36m__[m               [36m_[m N [36m_[m            [36m__[m M [36m__[m
+      [36m/       \           /       \             /     \          /       \[m
+     S         U       [36m_[m R [36m_[m       W           D       K        G         O
+    [36m/ \       / \     /     \     / \        /   \   /   \     / \       / \[m
+   H   V     F   [90mö[m   L       [90mé[m   P   J      B     X C     Y   Z   Q     [90mô   CH[m
+  [36m/ \   \   /   / \   \     /     \   \    / \   /   \   /   / \       /   / \[m
+ 5   4   3 ê   [36mo[m   2   [36mo[m   +       [36mo[m   1  6   = /     [36mo[m (   7   [36mo[m     8   9   0
+              [36m/ \     /     \     /   /    \         / \ \       \   /[m
+             ?   [90m_[m   "       .   @   '      -       [90m;   ![m )       , :
+                                                                         [90m]8;;http://www.phm.lu/PHM.lu]8;;
+
+International Morse Code binary tree
+by Philippe Majerus (www.phm.lu)
+
+Nodes in dark gray (ö é ô CH _ ; !) are not part of ITU M.1677 standard.
