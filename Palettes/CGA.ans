@@ -1,0 +1,11 @@
+]4;0;rgb:00/00/00]4;1;rgb:aa/00/00]4;2;rgb:00/aa/00]4;3;rgb:aa/55/00]4;4;rgb:00/00/aa]4;5;rgb:aa/00/aa]4;6;rgb:00/aa/aa]4;7;rgb:aa/aa/aa]4;8;rgb:55/55/55]4;9;rgb:ff/55/55]4;10;rgb:55/ff/55]4;11;rgb:ff/ff/55]4;12;rgb:55/55/ff]4;13;rgb:ff/55/ff]4;14;rgb:55/ff/ff]4;15;rgb:ff/ff/ff
+
+CGA colors palette
+Change the console palette to the standard colors as used by CGA
+and matching default 16-colors palette used by EGA and VGA.
+
+As the original CGA adapter was based on the same Motorola 6845 CRT
+controller as Tandy/RadioShack TRS-80 Color Computer, this is also
+the TRS-80 colors palette.
+
+by Philippe Majerus (www.phm.lu)

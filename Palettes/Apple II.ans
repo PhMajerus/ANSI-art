@@ -1,0 +1,9 @@
+]4;0;rgb:00/00/00]4;1;rgb:e3/1e/60]4;2;rgb:00/a3/60]4;3;rgb:60/72/03]4;4;rgb:60/4e/bd]4;5;rgb:ff/44/fd]4;6;rgb:d0/c3/ff]4;7;rgb:9c/9c/9c]4;8;rgb:9c/9c/9c]4;9;rgb:ff/6a/3c]4;10;rgb:14/f5/3c]4;11;rgb:d0/dd/8d]4;12;rgb:14/cf/fd]4;13;rgb:ff/a0/d0]4;14;rgb:72/ff/d0]4;15;rgb:ff/ff/ff
+
+Apple II colors palette
+Change the console palette to colors from the Apple II colors palette,
+while trying to keep colors indexes similar to CGA.
+This is designed to bring back memories when seeing ANSI-art in Apple II
+colors, but isn't a compatible palette and doesn't match Apple II indexes.
+
+by Philippe Majerus (www.phm.lu)

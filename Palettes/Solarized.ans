@@ -1,0 +1,12 @@
+]4;0;rgb:07/36/42]4;1;rgb:dc/32/2f]4;2;rgb:85/99/00]4;3;rgb:b5/89/00]4;4;rgb:26/8b/d2]4;5;rgb:d3/36/82]4;6;rgb:2a/a1/98]4;7;rgb:ee/e8/d5]4;8;rgb:00/2b/36]4;9;rgb:cb/4b/16]4;10;rgb:58/6e/75]4;11;rgb:65/7b/83]4;12;rgb:83/94/96]4;13;rgb:6c/71/c4]4;14;rgb:93/a1/a1]4;15;rgb:fd/f6/e3
+
+Solarized colors palette
+Change the console palette to the Solarized palette designed by Ethan Schoonover
+Solarized is a palette that does not respect the console and ANSI
+palettes, but provides replacement monotones and accent colors
+that reduces contrasting brightness while preserving contrasting
+hues, making text more comfortable to read.
+
+Credits: Ethan Schoonover (http://ethanschoonover.com/solarized)
+
+ANSI/VT file by Philippe Majerus (www.phm.lu)

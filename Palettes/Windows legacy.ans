@@ -1,0 +1,7 @@
+]4;0;rgb:00/00/00]4;1;rgb:80/00/00]4;2;rgb:00/80/00]4;3;rgb:80/80/00]4;4;rgb:00/00/80]4;5;rgb:80/00/80]4;6;rgb:00/80/80]4;7;rgb:c0/c0/c0]4;8;rgb:80/80/80]4;9;rgb:ff/00/00]4;10;rgb:00/ff/00]4;11;rgb:ff/ff/00]4;12;rgb:00/00/ff]4;13;rgb:ff/00/ff]4;14;rgb:00/ff/ff]4;15;rgb:ff/ff/ff
+
+Windows legacy colors palette
+Change the console palette to the original Windows conhost palette.
+(The standard Windows console palette finally changed in Windows 10 Ver. 1709)
+
+by Philippe Majerus (www.phm.lu)

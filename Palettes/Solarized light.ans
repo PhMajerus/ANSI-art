@@ -1,0 +1,13 @@
+]4;0;rgb:ee/e8/d5]4;1;rgb:dc/32/2f]4;2;rgb:85/99/00]4;3;rgb:b5/89/00]4;4;rgb:26/8b/d2]4;5;rgb:d3/36/82]4;6;rgb:2a/a1/98]4;7;rgb:07/36/42]4;8;rgb:fd/f6/e3]4;9;rgb:cb/4b/16]4;10;rgb:93/a1/a1]4;11;rgb:83/94/96]4;12;rgb:65/7b/83]4;13;rgb:6c/71/c4]4;14;rgb:58/6e/75]4;15;rgb:00/2b/36
+
+Solarized light colors palette
+Change the console palette to the light background version of
+the Solarized palette designed by Ethan Schoonover.
+This does not respect the console and ANSI palette, but instead
+reverses background tones and content tones so existing scripts
+designed for light content on dark background automatically
+show as light background. Accent colors are left intact.
+
+Credits: Ethan Schoonover (http://ethanschoonover.com/solarized)
+
+ANSI/VT file by Philippe Majerus (www.phm.lu)

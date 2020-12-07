@@ -1,0 +1,9 @@
+]4;0;rgb:00/00/00]4;1;rgb:68/37/2b]4;2;rgb:58/8d/43]4;3;rgb:6f/4f/25]4;4;rgb:35/28/79]4;5;rgb:6f/3d/86]4;6;rgb:43/39/00]4;7;rgb:95/95/95]4;8;rgb:44/44/44]4;9;rgb:9a/67/59]4;10;rgb:9a/d2/84]4;11;rgb:b8/c7/6f]4;12;rgb:6c/5e/b5]4;13;rgb:6c/6c/6c]4;14;rgb:70/a4/b2]4;15;rgb:ff/ff/ff
+
+Commodore 64 colors palette
+Change the console palette to colors from the C=64 colors palette,
+while trying to keep colors indexes similar to CGA.
+This is designed to bring back memories when seeing ANSI-art in C=64
+colors, but isn't a compatible palette and doesn't match C=64 indexes.
+
+by Philippe Majerus (www.phm.lu)

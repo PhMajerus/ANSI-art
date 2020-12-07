@@ -1,0 +1,11 @@
+]4;0;rgb:e5/e5/e5]4;1;rgb:f6/92/92]4;2;rgb:92/f6/92]4;3;rgb:a3/a3/3f]4;4;rgb:92/92/f6]4;5;rgb:a3/3f/a3]4;6;rgb:3f/a3/a3]4;7;rgb:60/60/60]4;8;rgb:a3/a3/a3]4;9;rgb:c4/60/60]4;10;rgb:60/c4/60]4;11;rgb:71/71/0d]4;12;rgb:60/60/c4]4;13;rgb:71/0d/71]4;14;rgb:0d/71/71]4;15;rgb:1e/1e/1e
+
+AXSH standard light colors palette
+Change the console palette to a more balanced and less contrasted palette,
+which reverses the colors brightnesses while keeping original ANSI contrasts.
+This palette is designed to make it easy to switch from dark to light without
+changing any VT sequence.
+It isn't just reshuffling the standard palette, as the colors aren't symmetrical.
+Originally designed for Majerus.net ActiveScript Shell (AXSH).
+
+by Philippe Majerus (www.phm.lu)

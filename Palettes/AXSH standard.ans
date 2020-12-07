@@ -1,0 +1,8 @@
+]4;0;rgb:1e/1e/1e]4;1;rgb:92/2f/2f]4;2;rgb:2f/92/2f]4;3;rgb:a3/a3/3f]4;4;rgb:2f/2f/92]4;5;rgb:a3/3f/a3]4;6;rgb:3f/a3/a3]4;7;rgb:a3/a3/a3]4;8;rgb:60/60/60]4;9;rgb:c4/60/60]4;10;rgb:60/c4/60]4;11;rgb:d4/d4/71]4;12;rgb:60/60/c4]4;13;rgb:d4/71/d4]4;14;rgb:71/d4/d4]4;15;rgb:e5/e5/e5
+
+AXSH standard colors palette
+Change the console palette to a more balanced and less contrasted palette,
+while keeping enough contrast for ANSI-art.
+Originally designed for Majerus.net ActiveScript Shell (AXSH).
+
+by Philippe Majerus (www.phm.lu)

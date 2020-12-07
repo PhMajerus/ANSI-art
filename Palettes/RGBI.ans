@@ -1,0 +1,7 @@
+]4;0;rgb:00/00/00]4;1;rgb:aa/00/00]4;2;rgb:00/aa/00]4;3;rgb:aa/aa/00]4;4;rgb:00/00/aa]4;5;rgb:aa/00/aa]4;6;rgb:00/aa/aa]4;7;rgb:aa/aa/aa]4;8;rgb:55/55/55]4;9;rgb:ff/55/55]4;10;rgb:55/ff/55]4;11;rgb:ff/ff/55]4;12;rgb:55/55/ff]4;13;rgb:ff/55/ff]4;14;rgb:55/ff/ff]4;15;rgb:ff/ff/ff
+
+RGBI colors palette
+Change the console palette to the RGBI (4-bits) palette, similar
+to CGA but with simple dark yellow (ochre) instead of brown.
+
+by Philippe Majerus (www.phm.lu)
