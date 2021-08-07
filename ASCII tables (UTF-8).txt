@@ -1,0 +1,25 @@
+ [4mASCII (7-bit)[24m       [4mIBM PC graphical characters[24m
+  [33m_0123456789ABCDEF   _0123456789ABCDEF[m
+ [33m0_[90m␀␁␂␃␄␅␆␇␈␉␊␋␌␍␎␏  [33m0_[m ☺☻♥♦♣♠•◘○◙♂♀♪♫☼
+ [33m1_[90m␐␑␒␓␔␕␖␗␘␙␚␛␜␝␞␟  [33m1_[m►◄↕‼¶§▬↨↑↓→←∟↔▲▼
+ [33m2_[90m␠[m!"#$%&'()*+,-./  [33m2_[90m !"#$%&'()*+,-./[m
+ [33m3_[m0123456789:;<=>?  [33m3_[90m0123456789:;<=>?[m
+ [33m4_[m@ABCDEFGHIJKLMNO  [33m4_[90m@ABCDEFGHIJKLMNO[m
+ [33m5_[mPQRSTUVWXYZ[\]^_  [33m5_[90mPQRSTUVWXYZ[\]^_[m
+ [33m6_[m`abcdefghijklmno  [33m6_[90m`abcdefghijklmno[m
+ [33m7_[mpqrstuvwxyz{|}~[90m␡  [33m7_[m[90mpqrstuvwxyz{[m¦[90m}~[m⌂
+  [90;3mThe original IBM PC includes characters for values used for in-band control
+  codes (C0), and originally had a broken bar in place of the vertical bar.[m
+ 
+ [4mDOS 437: IBM-PC/US[24m  [4mDOS 850: Latin 1[24m    [4mWin 1252: Latin 1[24m   [4mISO 8859-1:Latin 1[24m
+  [33m_0123456789ABCDEF   _0123456789ABCDEF   _0123456789ABCDEF   _0123456789ABCDEF[m
+ [33m8_[mÇüéâäàåçêëèïîìÄÅ  [33m8_[90mÇüéâäàåçêëèïîìÄÅ  [33m8_[m€[100;30m␥[m‚ƒ„…†‡ˆ‰Š‹Œ[100;30m␥[mŽ[100;30m␥[m  [33m8_[100;30;3m   C1 control   [m
+ [33m9_[mÉæÆôöòûùÿÖÜ¢£¥₧ƒ  [33m9_[90mÉæÆôöòûùÿÖÜ[mø[90m£[mØ×[90mƒ  [33m9_[100;30m␥[m‘’“”•–—˜™š›œ[100;30m␥[mžŸ  [33m9_[100;30;3m   characters   [m
+ [33mA_[máíóúñÑªº¿⌐¬½¼¡«»  [33mA_[90máíóúñÑªº¿[m®[90m¬½¼¡«»  [33mA_[m ¡¢£¤¥¦§¨©ª«¬­®¯  [33mA_[m ¡¢£¤¥¦§¨©ª«¬­®¯
+ [33mB_[m░▒▓│┤╡╢╖╕╣║╗╝╜╛┐  [33mB_[90m░▒▓│┤[mÁÂÀ©[90m╣║╗╝[m¢¥[90m┐  [33mB_[m°±²³´µ¶·¸¹º»¼½¾¿  [33mB_[m°±²³´µ¶·¸¹º»¼½¾¿
+ [33mC_[m└┴┬├─┼╞╟╚╔╩╦╠═╬╧  [33mC_[90m└┴┬├─┼[mãÃ[90m╚╔╩╦╠═╬[m¤  [33mC_[mÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏ  [33mC_[mÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏ
+ [33mD_[m╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀  [33mD_[mðÐÊËÈıÍÎÏ[90m┘┌█▄[m¦Ì[90m▀  [33mD_[mÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß  [33mD_[mÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß
+ [33mE_[mαßΓπΣσµτΦΘΩδ∞φε∩  [33mE_[mÓ[90mß[mÔÒõÕ[90mµ[mþÞÚÛÙýÝ¯´  [33mE_[màáâãäåæçèéêëìíîï  [33mE_[màáâãäåæçèéêëìíîï
+ [33mF_[m≡±≥≤⌠⌡÷≈°∙·√ⁿ²■   [33mF_[m­[90m±[m‗¾¶§[90m÷[m¸[90m°[m¨[90m·[m¹³[90m²■   [33mF_[mðñòóôõö÷øùúûüýþÿ  [33mF_[mðñòóôõö÷øùúûüýþÿ
+  [90;3mISO 8859-1 is identical to Windows 1252 except for C1 control characters in[m
+  [90;3m80 to 9F. It is also identical to the first 256 Unicode code points.[m
