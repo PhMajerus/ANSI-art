@@ -1,3 +1,4 @@
+
  [4mASCII (7-bit)[24m       [4mIBM PC graphical characters[24m
   [33m_0123456789ABCDEF   _0123456789ABCDEF[m
  [33m0_[90m␀␁␂␃␄␅␆␇␈␉␊␋␌␍␎␏  [33m0_[m ☺☻♥♦♣♠•◘○◙♂♀♪♫☼
