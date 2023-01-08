@@ -13,8 +13,8 @@ In cmd.exe, simply use the "type" command with local copies of the files, using 
 
 In ActiveScript Shell, use the following functions:\
 JScript\
-`function getAnsi(url) { var xhr = new XMLHttpRequest(); xhr.open("GET",url,false); xhr.send(); return binaryToString(xhr.responseBody,"CP437").trimSUB(); }`\
+`function getAnsi(url) { var xhr = new XMLHttpRequest(); xhr.open("GET",url,false); xhr.send(); return Encodings.binaryToText(xhr.responseBody,437).trimSUB(); }`\
 `echo(getAnsi("https://raw.githubusercontent.com/PhMajerus/ANSI-art/master/Super%20Mario%20castle%20(wide)%20(256%20colors).ans"));`\
 VBScript\
-`Function GetAnsi(URL): Dim XHR: Set XHR=CreateObject("MSXML2.XMLHTTP.6.0"): XHR.Open "GET",URL,False: XHR.Send: GetAnsi=TrimSUB(BinaryToString(XHR.ResponseBody,"CP437")): End Function`\
+`Function GetAnsi(URL): Dim XHR: Set XHR=CreateObject("MSXML2.XMLHTTP.6.0"): XHR.Open "GET",URL,False: XHR.Send: GetAnsi=TrimSUB(Encodings.BinaryToText(XHR.ResponseBody,437)): End Function`\
 `Echo GetAnsi("https://raw.githubusercontent.com/PhMajerus/ANSI-art/master/Super%20Mario%20castle%20(wide)%20(256%20colors).ans")`
